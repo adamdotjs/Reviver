@@ -18,7 +18,7 @@
 		"button.secondaryHoverBackground": "#565B5C",
 		"charts.blue": "#7A837A",
 		"charts.foreground": "#B2A89D",
-		"charts.green": "#70c27f",
+		"charts.green": "#6fc17e",
 		"charts.lines": "#95968A",
 		"charts.orange": "#d07f60",
 		"charts.purple": "#cf93a9",
@@ -75,7 +75,7 @@
 		"editorGroupHeader.noTabsBackground": "#2E2933",
 		"editorGroupHeader.tabsBackground": "#2E2933",
 		"editorGroupHeader.tabsBorder": "#35363C00",
-		"editorGutter.addedBackground": "#70c27f",
+		"editorGutter.addedBackground": "#6fc17e",
 		"editorGutter.background": "#2E2933",
 		"editorGutter.deletedBackground": "#E06C75",
 		"editorGutter.modifiedBackground": "#ceb18d",
@@ -91,7 +91,7 @@
 		"editorMarkerNavigation.background": "#686F6Dc0",
 		"editorMarkerNavigationError.background": "#E06C75c0",
 		"editorMarkerNavigationWarning.background": "#ceb18dc0",
-		"editorOverviewRuler.addedForeground": "#70c27f",
+		"editorOverviewRuler.addedForeground": "#6fc17e",
 		"editorOverviewRuler.border": "#35363C00",
 		"editorOverviewRuler.currentContentForeground": "#35363C",
 		"editorOverviewRuler.deletedForeground": "#E06C75",
@@ -131,7 +131,7 @@
 		"gitDecoration.stageDeletedResourceForeground": "#E06C75a0",
 		"gitDecoration.stageModifiedResourceForeground": "#ceb18da0",
 		"gitDecoration.submoduleResourceForeground": "#8fbcbba0",
-		"gitDecoration.untrackedResourceForeground": "#70c27fa0",
+		"gitDecoration.untrackedResourceForeground": "#6fc17ea0",
 		"input.background": "#35363C",
 		"input.border": "#35363C",
 		"input.foreground": "#B2A89D",
@@ -174,7 +174,7 @@
 		"minimap.findMatchHighlight": "#95968A",
 		"minimap.selectionHighlight": "#95968Acc",
 		"minimap.warningHighlight": "#ceb18dcc",
-		"minimapGutter.addedBackground": "#70c27f",
+		"minimapGutter.addedBackground": "#6fc17e",
 		"minimapGutter.deletedBackground": "#E06C75",
 		"minimapGutter.modifiedBackground": "#ceb18d",
 		"minimapSlider.activeBackground": "#45494Caa",
@@ -249,7 +249,7 @@
 		"terminal.ansiBrightBlack": "#565B5C",
 		"terminal.ansiBrightBlue": "#9289d5",
 		"terminal.ansiBrightCyan": "#8ACFEF",
-		"terminal.ansiBrightGreen": "#70c27f",
+		"terminal.ansiBrightGreen": "#6fc17e",
 		"terminal.ansiBrightMagenta": "#cf93a9",
 		"terminal.ansiBrightRed": "#d07f60",
 		"terminal.ansiBrightYellow": "#ceb18d",
@@ -257,7 +257,7 @@
 		"terminal.ansiBlack": "#35363C",
 		"terminal.ansiBlue": "#9289d5",
 		"terminal.ansiCyan": "#8ACFEF",
-		"terminal.ansiGreen": "#70c27f",
+		"terminal.ansiGreen": "#6fc17e",
 		"terminal.ansiMagenta": "#cf93a9",
 		"terminal.ansiRed": "#d07f60",
 		"terminal.ansiYellow": "#ceb18d",
@@ -663,7 +663,7 @@
 				"text.tex markup.raw"
 			],
 			"settings": {
-				"foreground": "#70c27f"
+				"foreground": "#6fc17e"
 			}
 		},
 		{
