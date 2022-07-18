@@ -1,7 +1,7 @@
 {
 	"name": "reviver",
 	"displayName": "Reviver",
-	"description": "A minimal, distraction free theme to keep you focused on the code.",
+	"description": "A minimal, distraction free theme to keep your mind calm and eyes focused.",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.68.0"
